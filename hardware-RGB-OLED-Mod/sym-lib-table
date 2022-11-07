@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/Type-C.pretty/Type-C.lib")(options "")(descr ""))
+  (lib (name "RP2040")(type "Legacy")(uri "${KIPRJMOD}/RP2040.pretty/MCU_RaspberryPi_RP2040.lib")(options "")(descr ""))
+  (lib (name "sk6812mini-e_easy_solder")(type "Legacy")(uri "${KIPRJMOD}/sk6812mini-e_easy_solder.lib")(options "")(descr ""))
+  (lib (name "SSD1306-128x64_OLED")(type "Legacy")(uri "${KIPRJMOD}/SSD1306-128x64_OLED.lib")(options "")(descr ""))
+)
