@@ -1,4 +1,4 @@
-19820834585676953
+19822502381206516
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55642,6 +55642,13 @@ solder jumper open
 0
 5
 3
+Kailh
+128x64OLED
+
+
+0
+4
+4
 Kailh
 Kailh_socket_MX-ChocV1
 MX-style keyswitch with Kailh socket mount
